@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1beta1
 kind: Component
 metadata:
-  name: jitsi-meet
+  name: multi-window-video
   namespace: economist-impact
   annotations:
     github.com/project-slug: signal-noise/jitsi-meet
